@@ -12,12 +12,4 @@ How we built?
 
 Kissan was created with Arduino, temperature sensor, moisture sensor, and other IOT modules in the hardware and PostgreSQL, express, react, and node.js was in the software. The weather API was used to obtain the weather.
 
-Obstacles we faced while developing this application
 
-We faced different challenges and obstacles while doing this project. At first, we faced the problem of operating an Arduino with different sensors. And, we got problems with using the weather API as well. But in the end, we were able to solve all these problems.
-
-The progress from this hackathon
-
-Actually, we learned a lot and enjoyed working on our idea during the hackathon. We improved our abilities to cooperate and speak with one another. We genuinely like the activity. React was another programming language we learned, which was new to us.
-
-We're really happy and satisfied with our project. If we had more time, we could have expanded the project's functionalities and provided additional information. We are happy and proud of our project aside from that.
